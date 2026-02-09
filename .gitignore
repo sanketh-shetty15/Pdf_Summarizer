@@ -1,0 +1,16 @@
+# virtual environments
+venv/
+.venv/
+
+# environment variables
+.env
+
+# python cache
+__pycache__/
+*.pyc
+
+# vscode
+.vscode/
+
+# vector stores
+faiss_store_*.pkl
